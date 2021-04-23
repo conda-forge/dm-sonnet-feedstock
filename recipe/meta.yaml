@@ -1,5 +1,5 @@
 {% set name = "dm-sonnet" %}
-{% set version = "1.23.0" %}
+{% set version = "1.23" %}
 
 package:
   name: {{ name|lower }}
