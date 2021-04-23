@@ -14,15 +14,15 @@ Development: https://github.com/deepmind/sonnet
 Documentation: https://sonnet.readthedocs.io/en/latest/
 
 Sonnet has been designed and built by researchers at DeepMind.
-It can be used to construct neural networks for many different
-purposes (un/supervised learning, reinforcement learning, ...).
-More specifically, Sonnet provides a simple but powerful programming
-model centered around a single concept: snt.Module. Modules can hold
-references to parameters, other modules and methods that apply some
-function on the user input. Sonnet ships with many predefined modules
-(e.g. snt.Linear, snt.Conv2D, snt.BatchNorm) and some predefined networks
-of modules (e.g. snt.nets.MLP) but users are also encouraged to build their
-own modules.
+ It can be used to construct neural networks for many different
+ purposes (un/supervised learning, reinforcement learning, ...).
+ More specifically, Sonnet provides a simple but powerful programming
+ model centered around a single concept: snt.Module. Modules can hold
+ references to parameters, other modules and methods that apply some
+ function on the user input. Sonnet ships with many predefined modules
+ (e.g. snt.Linear, snt.Conv2D, snt.BatchNorm) and some predefined networks
+ of modules (e.g. snt.nets.MLP) but users are also encouraged to build their
+ own modules.
 
 
 Current build status
@@ -133,4 +133,6 @@ Feedstock Maintainers
 
 * [@asmith26](https://github.com/asmith26/)
 * [@marcelotrevisani](https://github.com/marcelotrevisani/)
+* [@maresb](https://github.com/maresb/)
+* [@thewchan](https://github.com/thewchan/)
 
